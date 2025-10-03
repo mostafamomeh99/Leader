@@ -1,0 +1,76 @@
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\bin\Debug\net8.0\Localization.deps.json
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\bin\Debug\net8.0\Localization.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\bin\Debug\net8.0\Localization.pdb
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\bin\Debug\net8.0\ar\Localization.resources.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\bin\Debug\net8.0\en\Localization.resources.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.SharedResource.resources
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.SharedResource.ar.resources
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.SharedResource.en.resources
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.csproj.GenerateResource.cache
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.AssemblyInfoInputs.cache
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.AssemblyInfo.cs
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.csproj.CoreCompileInputs.cache
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\obj\Debug\net8.0\ar\Localization.resources.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\obj\Debug\net8.0\en\Localization.resources.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\obj\Debug\net8.0\refint\Localization.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.pdb
+C:\Users\naboo\source\repos\AutoAndDialar\Localization\obj\Debug\net8.0\ref\Localization.dll
+D:\AutoAndDialar\Localization\bin\Debug\net8.0\Localization.deps.json
+D:\AutoAndDialar\Localization\bin\Debug\net8.0\Localization.dll
+D:\AutoAndDialar\Localization\bin\Debug\net8.0\Localization.pdb
+D:\AutoAndDialar\Localization\bin\Debug\net8.0\ar\Localization.resources.dll
+D:\AutoAndDialar\Localization\bin\Debug\net8.0\en\Localization.resources.dll
+D:\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.SharedResource.resources
+D:\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.SharedResource.ar.resources
+D:\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.SharedResource.en.resources
+D:\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.csproj.GenerateResource.cache
+D:\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.GeneratedMSBuildEditorConfig.editorconfig
+D:\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.AssemblyInfoInputs.cache
+D:\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.AssemblyInfo.cs
+D:\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.csproj.CoreCompileInputs.cache
+D:\AutoAndDialar\Localization\obj\Debug\net8.0\ar\Localization.resources.dll
+D:\AutoAndDialar\Localization\obj\Debug\net8.0\en\Localization.resources.dll
+D:\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.dll
+D:\AutoAndDialar\Localization\obj\Debug\net8.0\refint\Localization.dll
+D:\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.pdb
+D:\AutoAndDialar\Localization\obj\Debug\net8.0\ref\Localization.dll
+D:\Leedar\AutoAndDialar\Localization\bin\Debug\net8.0\Localization.deps.json
+D:\Leedar\AutoAndDialar\Localization\bin\Debug\net8.0\Localization.dll
+D:\Leedar\AutoAndDialar\Localization\bin\Debug\net8.0\Localization.pdb
+D:\Leedar\AutoAndDialar\Localization\bin\Debug\net8.0\ar\Localization.resources.dll
+D:\Leedar\AutoAndDialar\Localization\bin\Debug\net8.0\en\Localization.resources.dll
+D:\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.SharedResource.resources
+D:\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.SharedResource.ar.resources
+D:\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.SharedResource.en.resources
+D:\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.csproj.GenerateResource.cache
+D:\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.AssemblyInfoInputs.cache
+D:\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.AssemblyInfo.cs
+D:\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.csproj.CoreCompileInputs.cache
+D:\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\ar\Localization.resources.dll
+D:\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\en\Localization.resources.dll
+D:\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.dll
+D:\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\refint\Localization.dll
+D:\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.pdb
+D:\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\ref\Localization.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\bin\Debug\net8.0\Localization.deps.json
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\bin\Debug\net8.0\Localization.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\bin\Debug\net8.0\Localization.pdb
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\bin\Debug\net8.0\ar\Localization.resources.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\bin\Debug\net8.0\en\Localization.resources.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.SharedResource.resources
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.SharedResource.ar.resources
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.SharedResource.en.resources
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.csproj.GenerateResource.cache
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.AssemblyInfoInputs.cache
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.AssemblyInfo.cs
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.csproj.CoreCompileInputs.cache
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\ar\Localization.resources.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\en\Localization.resources.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\refint\Localization.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\Localization.pdb
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Localization\obj\Debug\net8.0\ref\Localization.dll

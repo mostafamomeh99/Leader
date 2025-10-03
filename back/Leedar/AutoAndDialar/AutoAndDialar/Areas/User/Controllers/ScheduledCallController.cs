@@ -1,0 +1,207 @@
+﻿using Application.Common.Interfaces;
+using Application.Features.Application.Contact.Queries;
+using Application.Features.Application.HistoricalCall.Commands.Create;
+using Application.Features.Application.HistoricalCall.Queries;
+using Application.Features.Application.ScheduledCall.Queries;
+using Application.Features.Lookup.CategoryPath.Queries;
+using Infrastructure.Interfaces;
+using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net;
+using System.Threading.Tasks;
+
+namespace DialerSystem.Areas.User.Controllers
+{
+    [Area("User")]
+    public class ScheduledCallController : BaseController
+    {
+        IContextCurrentUserService _currentUserService;
+        public ScheduledCallController(IContextCurrentUserService currentUserService)
+        {
+            _currentUserService = currentUserService;
+        }
+        public IActionResult Index()
+        {
+            return PartialView();
+        }
+        public async Task<IActionResult> View(Guid callId)
+        {
+
+            var response = await Mediator.Send(new Application.Features.Application.ScheduledCall.Queries.GetScheduledCallById
+            {
+                CallId = callId,
+            });
+            if (response.Succeeded)
+            {
+                ViewBag.CallId = callId;
+                ViewBag.CallCategoryId = response.Data.CategoryId;
+            }
+            else
+            {
+                var Info = await Mediator.Send(new Application.Features.Application.HistoricalCall.Queries.GetInfoOfScheduledCallId
+                {
+                    ScheduledCallId = callId,
+                });
+
+                if (Info.Succeeded)
+                {
+                    ViewBag.HistoricalCallVM = Info.Data;
+                }
+            }
+            return PartialView();
+        }
+        public async Task<IActionResult> PredictiveCall(Guid callId, string extention)
+        {
+
+            var response = await Mediator.Send(new Application.Features.Application.ScheduledCall.Commands.Update.AssignCallToCurrentUserCommand
+            {
+                ScheduledCallId = callId,
+                AssignFromUserId = Shared.Struct.StaticUser.POMApplicationUser,
+            });
+            if (response.Succeeded)
+            {
+                ViewBag.CallId = callId;
+            }
+            else
+            {
+                var Info = await Mediator.Send(new Application.Features.Application.HistoricalCall.Queries.GetInfoOfScheduledCallId
+                {
+                    ScheduledCallId = callId,
+                });
+
+                if (Info.Succeeded)
+                {
+                    ViewBag.HistoricalCallVM = Info.Data;
+                }
+            }
+            return PartialView();
+        }
+      
+        [HttpPost]
+        public async Task<IActionResult> GetByFilter([FromBody] Application.Features.Application.ScheduledCall.Queries.GetByFilter model)
+        {
+            if (ModelState.IsValid)
+            {   
+               // DateTime date = DateTime.Now;
+
+                model.AssignToUserId = _currentUserService.UserId;
+                
+                var response = await Mediator.Send(model);
+                return StatusCode((int)response.HttpStatusCode, response);
+            }
+            else
+            {
+                string message = "";
+                foreach (var value in ModelState.Values)
+                {
+                    foreach (var error in value.Errors)
+                    {
+                        message += error.ErrorMessage + " \n ";
+                    }
+                }
+                return StatusCode((int)HttpStatusCode.BadRequest, message);
+            }
+        }
+        [HttpPost]
+        [HttpPost]
+       
+        public async Task<IActionResult> GetScheduledCallCountByCallStatus([FromBody] GetScheduledCallCountByCallStatus model)
+        {
+            if (ModelState.IsValid)
+            {
+                var response = await Mediator.Send(model);
+                return StatusCode((int)response.HttpStatusCode, response);
+            }
+            else
+            {
+                string message = "";
+                foreach (var value in ModelState.Values)
+                {
+                    foreach (var error in value.Errors)
+                    {
+                        message += error.ErrorMessage + " \n ";
+                    }
+                }
+                return StatusCode((int)HttpStatusCode.BadRequest, message);
+            }
+        }
+        [HttpPost]
+        public async Task<IActionResult> GetScheduledCallById([FromBody] GetScheduledCallById model)
+        {
+            var response = await Mediator.Send(model);
+            return StatusCode((int)response.HttpStatusCode, response);
+        }
+        [HttpPost]
+        public async Task<IActionResult> GetPathOfCallId([FromBody] GetFullPath model)
+        {
+            var response = await Mediator.Send(model);
+            return StatusCode((int)response.HttpStatusCode, response);
+        }
+        [HttpPost]
+        public async Task<IActionResult> GetContactInfoOfCallId([FromBody] GetContactInfoOfCallId model)
+        {
+            var response = await Mediator.Send(model);
+            return StatusCode((int)response.HttpStatusCode, response);
+        }
+       
+        [HttpPost]
+        public async Task<IActionResult> GetHistoricalCallsOfCallId([FromBody] GetHistoricalCallsOfCallId model)
+        {
+            var response = await Mediator.Send(model);
+            return StatusCode((int)response.HttpStatusCode, response);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> SubmitCallResult([FromBody] SubmitCallResultCommand model)
+        {
+            var response = await Mediator.Send(model);
+            return StatusCode((int)response.HttpStatusCode, response);
+        }
+        //[HttpPost]
+        //public async Task<IActionResult> GetStaticsByFilter([FromBody] Application.Features.Application.ScheduledCall.Queries.GetFollowUpCountForUser model)
+        //{
+        //    if (ModelState.IsValid)
+        //    {
+        //        var response = await Mediator.Send(model);
+        //        return StatusCode((int)response.HttpStatusCode, response);
+        //    }
+        //    else
+        //    {
+        //        string message = "";
+        //        foreach (var value in ModelState.Values)
+        //        {
+        //            foreach (var error in value.Errors)
+        //            {
+        //                message += error.ErrorMessage + " \n ";
+        //            }
+        //        }
+        //        return StatusCode((int)HttpStatusCode.BadRequest, message);
+        //    }
+        //}
+        [HttpPost]
+        public async Task<IActionResult> GetByFilterHistoricalCall([FromBody] Application.Features.Application.HistoricalCall.Queries.GetByFilter model)
+        {
+            if (ModelState.IsValid)
+            {
+                model.AssignToUserId = _currentUserService.UserId.Value;
+                var response = await Mediator.Send(model);
+                return StatusCode((int)response.HttpStatusCode, response);
+            }
+            else
+            {
+                string message = "";
+                foreach (var value in ModelState.Values)
+                {
+                    foreach (var error in value.Errors)
+                    {
+                        message += error.ErrorMessage + " \n ";
+                    }
+                }
+                return StatusCode((int)HttpStatusCode.BadRequest, message);
+            }
+        }
+
+    }
+}

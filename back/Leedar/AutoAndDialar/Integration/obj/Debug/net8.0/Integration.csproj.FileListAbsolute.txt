@@ -1,0 +1,60 @@
+C:\Users\naboo\source\repos\AutoAndDialar\Integration\bin\Debug\net8.0\Integration.deps.json
+C:\Users\naboo\source\repos\AutoAndDialar\Integration\bin\Debug\net8.0\Integration.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Integration\bin\Debug\net8.0\Integration.pdb
+C:\Users\naboo\source\repos\AutoAndDialar\Integration\bin\Debug\net8.0\Shared.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Integration\bin\Debug\net8.0\Shared.pdb
+C:\Users\naboo\source\repos\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.csproj.AssemblyReference.cache
+C:\Users\naboo\source\repos\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naboo\source\repos\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.AssemblyInfoInputs.cache
+C:\Users\naboo\source\repos\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.AssemblyInfo.cs
+C:\Users\naboo\source\repos\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.csproj.CoreCompileInputs.cache
+C:\Users\naboo\source\repos\AutoAndDialar\Integration\obj\Debug\net8.0\Integrat.B0B6ED80.Up2Date
+C:\Users\naboo\source\repos\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Integration\obj\Debug\net8.0\refint\Integration.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.pdb
+C:\Users\naboo\source\repos\AutoAndDialar\Integration\obj\Debug\net8.0\ref\Integration.dll
+D:\AutoAndDialar\Integration\bin\Debug\net8.0\Integration.deps.json
+D:\AutoAndDialar\Integration\bin\Debug\net8.0\Integration.dll
+D:\AutoAndDialar\Integration\bin\Debug\net8.0\Integration.pdb
+D:\AutoAndDialar\Integration\bin\Debug\net8.0\Shared.dll
+D:\AutoAndDialar\Integration\bin\Debug\net8.0\Shared.pdb
+D:\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.csproj.AssemblyReference.cache
+D:\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.GeneratedMSBuildEditorConfig.editorconfig
+D:\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.AssemblyInfoInputs.cache
+D:\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.AssemblyInfo.cs
+D:\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.csproj.CoreCompileInputs.cache
+D:\AutoAndDialar\Integration\obj\Debug\net8.0\Integrat.B0B6ED80.Up2Date
+D:\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.dll
+D:\AutoAndDialar\Integration\obj\Debug\net8.0\refint\Integration.dll
+D:\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.pdb
+D:\AutoAndDialar\Integration\obj\Debug\net8.0\ref\Integration.dll
+D:\Leedar\AutoAndDialar\Integration\bin\Debug\net8.0\Integration.deps.json
+D:\Leedar\AutoAndDialar\Integration\bin\Debug\net8.0\Integration.dll
+D:\Leedar\AutoAndDialar\Integration\bin\Debug\net8.0\Integration.pdb
+D:\Leedar\AutoAndDialar\Integration\bin\Debug\net8.0\Shared.dll
+D:\Leedar\AutoAndDialar\Integration\bin\Debug\net8.0\Shared.pdb
+D:\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.csproj.AssemblyReference.cache
+D:\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.AssemblyInfoInputs.cache
+D:\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.AssemblyInfo.cs
+D:\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.csproj.CoreCompileInputs.cache
+D:\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\Integrat.B0B6ED80.Up2Date
+D:\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.dll
+D:\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\refint\Integration.dll
+D:\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.pdb
+D:\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\ref\Integration.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Integration\bin\Debug\net8.0\Integration.deps.json
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Integration\bin\Debug\net8.0\Integration.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Integration\bin\Debug\net8.0\Integration.pdb
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Integration\bin\Debug\net8.0\Shared.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Integration\bin\Debug\net8.0\Shared.pdb
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.csproj.AssemblyReference.cache
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.AssemblyInfoInputs.cache
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.AssemblyInfo.cs
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.csproj.CoreCompileInputs.cache
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\Integrat.B0B6ED80.Up2Date
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\refint\Integration.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\Integration.pdb
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Integration\obj\Debug\net8.0\ref\Integration.dll

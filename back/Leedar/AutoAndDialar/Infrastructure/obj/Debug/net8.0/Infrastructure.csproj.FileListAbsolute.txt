@@ -1,0 +1,92 @@
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Localization.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Shared.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Localization.pdb
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Shared.pdb
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\bin\Debug\net8.0\ar\Localization.resources.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\bin\Debug\net8.0\en\Localization.resources.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\naboo\source\repos\AutoAndDialar\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Localization.dll
+D:\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Shared.dll
+D:\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Localization.pdb
+D:\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Shared.pdb
+D:\AutoAndDialar\Infrastructure\bin\Debug\net8.0\ar\Localization.resources.dll
+D:\AutoAndDialar\Infrastructure\bin\Debug\net8.0\en\Localization.resources.dll
+D:\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\AutoAndDialar\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\AutoAndDialar\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Localization.dll
+D:\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Shared.dll
+D:\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Localization.pdb
+D:\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Shared.pdb
+D:\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\ar\Localization.resources.dll
+D:\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\en\Localization.resources.dll
+D:\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Localization.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Shared.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Localization.pdb
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\Shared.pdb
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\ar\Localization.resources.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\bin\Debug\net8.0\en\Localization.resources.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Infrastructure": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DefaultConnection": "Data Source=(local);Initial Catalog=AutoAndDialarDB;Integrated Security=False;User ID=sa;Password=Gohome@123;Encrypt=True;TrustServerCertificate=False;MultipleActiveResultSets=True;"
+      },
+      "applicationUrl": "https://localhost:55647;http://localhost:55652"
+    }
+  }
+}

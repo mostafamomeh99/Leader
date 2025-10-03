@@ -1,0 +1,60 @@
+C:\Users\naboo\source\repos\AutoAndDialar\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\naboo\source\repos\AutoAndDialar\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\naboo\source\repos\AutoAndDialar\Domain\bin\Debug\net8.0\Shared.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Domain\bin\Debug\net8.0\Shared.pdb
+C:\Users\naboo\source\repos\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\naboo\source\repos\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naboo\source\repos\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\naboo\source\repos\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\naboo\source\repos\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\naboo\source\repos\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+C:\Users\naboo\source\repos\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\naboo\source\repos\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\naboo\source\repos\AutoAndDialar\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\AutoAndDialar\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\AutoAndDialar\Domain\bin\Debug\net8.0\Domain.dll
+D:\AutoAndDialar\Domain\bin\Debug\net8.0\Domain.pdb
+D:\AutoAndDialar\Domain\bin\Debug\net8.0\Shared.dll
+D:\AutoAndDialar\Domain\bin\Debug\net8.0\Shared.pdb
+D:\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+D:\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.dll
+D:\AutoAndDialar\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.pdb
+D:\AutoAndDialar\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Leedar\AutoAndDialar\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Leedar\AutoAndDialar\Domain\bin\Debug\net8.0\Domain.dll
+D:\Leedar\AutoAndDialar\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Leedar\AutoAndDialar\Domain\bin\Debug\net8.0\Shared.dll
+D:\Leedar\AutoAndDialar\Domain\bin\Debug\net8.0\Shared.pdb
+D:\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+D:\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.dll
+D:\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Domain\bin\Debug\net8.0\Domain.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Domain\bin\Debug\net8.0\Domain.pdb
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Domain\bin\Debug\net8.0\Shared.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Domain\bin\Debug\net8.0\Shared.pdb
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\Domain.pdb
+D:\study\self study\ledar\version 2\Leedar\AutoAndDialar\Domain\obj\Debug\net8.0\ref\Domain.dll

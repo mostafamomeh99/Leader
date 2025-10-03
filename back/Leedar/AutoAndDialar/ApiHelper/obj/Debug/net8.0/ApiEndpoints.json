@@ -1,0 +1,1649 @@
+[
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.CampaignController",
+    "Method": "Edit",
+    "RelativePath": "CP/v{version}/Campaign/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.Campaign.Commands.EditCampaignCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.CampaignController",
+    "Method": "GetByFilter",
+    "RelativePath": "CP/v{version}/Campaign/GetByFilter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.Campaign.Queries.GetByFilter",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.CampaignController",
+    "Method": "GetById",
+    "RelativePath": "CP/v{version}/Campaign/GetById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.CampaignController",
+    "Method": "New",
+    "RelativePath": "CP/v{version}/Campaign/New",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.Campaign.Commands.Create.CreateNewCampaignCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.CategoryController",
+    "Method": "Edit",
+    "RelativePath": "CP/v{version}/Category/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.Category.Commands.EditCategoryCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.CategoryController",
+    "Method": "GetByFilter",
+    "RelativePath": "CP/v{version}/Category/GetByFilter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.Category.Queries.GetByFilter",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.CategoryController",
+    "Method": "GetById",
+    "RelativePath": "CP/v{version}/Category/GetById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.CategoryController",
+    "Method": "New",
+    "RelativePath": "CP/v{version}/Category/New",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.Category.Commands.Create.CreateNewCategoryCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ContactController",
+    "Method": "Edit",
+    "RelativePath": "CP/v{version}/Contact/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.Contact.Commands.EditContactCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ContactController",
+    "Method": "GetByFilter",
+    "RelativePath": "CP/v{version}/Contact/GetByFilter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.Contact.Queries.GetByFilter",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ContactController",
+    "Method": "GetById",
+    "RelativePath": "CP/v{version}/Contact/GetById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.Contact.Queries.GetById",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ContactController",
+    "Method": "GetHistoricalCallsOfContactId",
+    "RelativePath": "CP/v{version}/Contact/GetHistoricalCallsOfContactId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.HistoricalCall.Queries.GetHistoricalCallsOfContactId",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ContactController",
+    "Method": "GetPathOfCallId",
+    "RelativePath": "CP/v{version}/Contact/GetPathOfCallId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.CategoryPath.Queries.GetFullPath",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ContactController",
+    "Method": "New",
+    "RelativePath": "CP/v{version}/Contact/New",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.Contact.Commands.Create.CreateNewContactCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.HistoricalCallController",
+    "Method": "GetHistoricalCallGeneralStatistics",
+    "RelativePath": "CP/v{version}/HistoricalCall/GetHistoricalCallGeneralStatistics",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.HistoricalCall.Queries.GetHistoricalCallGeneralStatistics",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.HistoricalCallController",
+    "Method": "HistoricalCallStatisticsByCallStatus",
+    "RelativePath": "CP/v{version}/HistoricalCall/HistoricalCallStatisticsByCallStatus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.HistoricalCall.Queries.GetHistoricalCallCountByCallStatus",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.LookupController",
+    "Method": "GetEntityAsSelectListItem",
+    "RelativePath": "CP/v{version}/Lookup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ApiHelper.Controllers.CP.LookupController\u002BGetEntityAsSelectListItemModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.OperationController",
+    "Method": "SchedualCallsToContactByExcel",
+    "RelativePath": "CP/v{version}/Operation/SchedualCallsToContactByExcel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CallTypeId",
+        "Type": "System.Nullable\u00601[[System.Guid, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "CampaignId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "CategoryId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "PriorityId",
+        "Type": "System.Nullable\u00601[[System.Guid, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "IsNeedToLoadInPredictiveDialer",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "ScheduledCallDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExcelFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.PathController",
+    "Method": "GetAllFieldsNames",
+    "RelativePath": "CP/v{version}/Path/GetAllFieldsNames",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Entity.EntityField.Queries.GetAllFieldsNames",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.PathController",
+    "Method": "GetByFilter",
+    "RelativePath": "CP/v{version}/Path/GetByFilter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.CategoryPath.Queries.GetByFilter",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.PathController",
+    "Method": "GetEntityActionTypeRequiredFieldsToEntityActionType",
+    "RelativePath": "CP/v{version}/Path/GetEntityActionTypeRequiredFieldsToEntityActionType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Entity.EntityActionTypeRequiredField.Queries.GetEntityActionTypeRequiredFieldsToEntityActionTypeQuery",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.PathController",
+    "Method": "GetFieldOptions",
+    "RelativePath": "CP/v{version}/Path/GetFieldOptions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Entity.EntityFieldOption.Queries.GetFieldOptionsQuery",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.PathController",
+    "Method": "GetFullPathByCategoryId",
+    "RelativePath": "CP/v{version}/Path/GetFullPathByCategoryId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.CategoryPath.Queries.GetFullPath",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.PathController",
+    "Method": "New",
+    "RelativePath": "CP/v{version}/Path/New",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.CategoryPath.Commands.Create.CreateNewPathFullCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.PathController",
+    "Method": "Update",
+    "RelativePath": "CP/v{version}/Path/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.CategoryPath.Commands.Update.UpdatePathFullCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ReportController",
+    "Method": "ExportPIMContactAttemptsHistory",
+    "RelativePath": "CP/v{version}/Report/ExportPIMContactAttemptsHistory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.HistoricalCall.Queries.ExportPIMContactAttemptsHistory",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ReportController",
+    "Method": "GetContactUploadingLog",
+    "RelativePath": "CP/v{version}/Report/GetContactUploadingLog",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Log.GetByFilter",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ReportController",
+    "Method": "GetPIMContactAttemptsHistory",
+    "RelativePath": "CP/v{version}/Report/GetPIMContactAttemptsHistory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.HistoricalCall.Queries.GetPIMContactAttemptsHistory",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.RoleController",
+    "Method": "Edit",
+    "RelativePath": "CP/v{version}/Role/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Identity.Role.Commands.EditRoleCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.RoleController",
+    "Method": "GetByFilter",
+    "RelativePath": "CP/v{version}/Role/GetByFilter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Identity.Role.Queries.GetByFilter",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.RoleController",
+    "Method": "GetById",
+    "RelativePath": "CP/v{version}/Role/GetById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.RoleController",
+    "Method": "New",
+    "RelativePath": "CP/v{version}/Role/New",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Identity.Role.Commands.CreateNewRoleCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ScheduledCallController",
+    "Method": "AssignAllCallsToNewUser",
+    "RelativePath": "CP/v{version}/ScheduledCall/AssignAllCallsToNewUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.ScheduledCall.Commands.Update.AssignAllCallsToNewUser",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ScheduledCallController",
+    "Method": "AssignCallToNewUser",
+    "RelativePath": "CP/v{version}/ScheduledCall/AssignCallToNewUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.ScheduledCall.Commands.Update.AssignCallToNewUser",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ScheduledCallController",
+    "Method": "DoOperation",
+    "RelativePath": "CP/v{version}/ScheduledCall/DoOperationCommand",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.ScheduledCall.Commands.Create.DoOperationCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ScheduledCallController",
+    "Method": "GetByFilter",
+    "RelativePath": "CP/v{version}/ScheduledCall/GetByFilter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.ScheduledCall.Queries.GetByFilter",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ScheduledCallController",
+    "Method": "GetByFilterHistoricalCall",
+    "RelativePath": "CP/v{version}/ScheduledCall/GetByFilterHistoricalCall",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.HistoricalCall.Queries.GetByFilter",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ScheduledCallController",
+    "Method": "GetContactInfoOfCallId",
+    "RelativePath": "CP/v{version}/ScheduledCall/GetContactInfoOfCallId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.Contact.Queries.GetContactInfoOfCallId",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ScheduledCallController",
+    "Method": "GetHistoricalCallsOfCallId",
+    "RelativePath": "CP/v{version}/ScheduledCall/GetHistoricalCallsOfCallId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.HistoricalCall.Queries.GetHistoricalCallsOfCallId",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ScheduledCallController",
+    "Method": "GetPathOfCallId",
+    "RelativePath": "CP/v{version}/ScheduledCall/GetPathOfCallId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.CategoryPath.Queries.GetFullPath",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ScheduledCallController",
+    "Method": "GetScheduledCallById",
+    "RelativePath": "CP/v{version}/ScheduledCall/GetScheduledCallById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.ScheduledCall.Queries.GetScheduledCallById",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ScheduledCallController",
+    "Method": "GetScheduledCallCountByCallStatus",
+    "RelativePath": "CP/v{version}/ScheduledCall/GetScheduledCallCountByCallStatus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.ScheduledCall.Queries.GetScheduledCallCountByCallStatus",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ScheduledCallController",
+    "Method": "GetStaticsByFilter",
+    "RelativePath": "CP/v{version}/ScheduledCall/GetStaticsByFilter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.ScheduledCall.Queries.GetStaticsByFilter",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ScheduledCallController",
+    "Method": "New",
+    "RelativePath": "CP/v{version}/ScheduledCall/New",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.ScheduledCall.Commands.CreateNewScheduledCallCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.ScheduledCallController",
+    "Method": "SubmitCallResult",
+    "RelativePath": "CP/v{version}/ScheduledCall/SubmitCallResult",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.HistoricalCall.Commands.Create.SubmitCallResultCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.TeamController",
+    "Method": "Edit",
+    "RelativePath": "CP/v{version}/Team/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.Team.Commands.EditTeamCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.TeamController",
+    "Method": "GetByFilter",
+    "RelativePath": "CP/v{version}/Team/GetByFilter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.Team.Queries.GetByFilter",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.TeamController",
+    "Method": "GetById",
+    "RelativePath": "CP/v{version}/Team/GetById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.TeamController",
+    "Method": "New",
+    "RelativePath": "CP/v{version}/Team/New",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.Team.Commands.CreateNewTeamCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.UserController",
+    "Method": "Edit",
+    "RelativePath": "CP/v{version}/User/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Identity.User.Commands.Update.EditUserCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.UserController",
+    "Method": "GetUser",
+    "RelativePath": "CP/v{version}/User/GetUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Identity.User.Queries.GetByFilter",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.UserController",
+    "Method": "GetUserById",
+    "RelativePath": "CP/v{version}/User/GetUserById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.UserController",
+    "Method": "NewApplicationUser",
+    "RelativePath": "CP/v{version}/User/NewApplicationUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Identity.User.Commands.Create.CreateNewUserCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.UserController",
+    "Method": "ResetPasswordHard",
+    "RelativePath": "CP/v{version}/User/ResetPasswordHard",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Identity.User.Commands.Update.ResetPasswordHardCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.CP.UserController",
+    "Method": "SendOtp",
+    "RelativePath": "CP/v{version}/User/SendOtp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Identity.User.Commands.Update.SendOtpForChangePassword",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.ContactController",
+    "Method": "GetPathOfCallId",
+    "RelativePath": "User/v{version}/Contact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.CategoryPath.Queries.GetFullPath",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.ContactController",
+    "Method": "Edit",
+    "RelativePath": "User/v{version}/Contact/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.Contact.Commands.EditContactCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.ContactController",
+    "Method": "GetByFilter",
+    "RelativePath": "User/v{version}/Contact/GetByFilter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.Contact.Queries.GetByFilter",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.ContactController",
+    "Method": "GetById",
+    "RelativePath": "User/v{version}/Contact/GetById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.Contact.Queries.GetById",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.ContactController",
+    "Method": "GetHistoricalCallsOfContactId",
+    "RelativePath": "User/v{version}/Contact/GetHistoricalCallsOfContactId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.HistoricalCall.Queries.GetHistoricalCallsOfContactId",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.ContactController",
+    "Method": "New",
+    "RelativePath": "User/v{version}/Contact/New",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.Contact.Commands.Create.CreateNewContactCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.HistoricalCallController",
+    "Method": "GetHistoricalCallGeneralStatistics",
+    "RelativePath": "User/v{version}/HistoricalCall/GetHistoricalCallGeneralStatistics",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.HistoricalCall.Queries.GetHistoricalCallGeneralStatistics",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.PathController",
+    "Method": "GetByFilter",
+    "RelativePath": "User/v{version}/Path/GetByFilter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.CategoryPath.Queries.GetByFilter",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.PathController",
+    "Method": "GetEntityActionTypeRequiredFieldsToEntityActionType",
+    "RelativePath": "User/v{version}/Path/GetEntityActionTypeRequiredFieldsToEntityActionType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Entity.EntityActionTypeRequiredField.Queries.GetEntityActionTypeRequiredFieldsToEntityActionTypeQuery",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.PathController",
+    "Method": "GetFieldOptions",
+    "RelativePath": "User/v{version}/Path/GetFieldOptions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Entity.EntityFieldOption.Queries.GetFieldOptionsQuery",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.PathController",
+    "Method": "GetFullPathByCategoryId",
+    "RelativePath": "User/v{version}/Path/GetFullPathByCategoryId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.CategoryPath.Queries.GetFullPath",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.PathController",
+    "Method": "New",
+    "RelativePath": "User/v{version}/Path/New",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.CategoryPath.Commands.Create.CreateNewPathFullCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.PathController",
+    "Method": "Update",
+    "RelativePath": "User/v{version}/Path/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.CategoryPath.Commands.Update.UpdatePathFullCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.ScheduledCallController",
+    "Method": "GetByFilter",
+    "RelativePath": "User/v{version}/ScheduledCall/GetByFilter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.ScheduledCall.Queries.GetByFilter",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.ScheduledCallController",
+    "Method": "GetByFilterHistoricalCall",
+    "RelativePath": "User/v{version}/ScheduledCall/GetByFilterHistoricalCall",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.HistoricalCall.Queries.GetByFilter",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.ScheduledCallController",
+    "Method": "GetContactInfoOfCallId",
+    "RelativePath": "User/v{version}/ScheduledCall/GetContactInfoOfCallId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.Contact.Queries.GetContactInfoOfCallId",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.ScheduledCallController",
+    "Method": "GetHistoricalCallsOfCallId",
+    "RelativePath": "User/v{version}/ScheduledCall/GetHistoricalCallsOfCallId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.HistoricalCall.Queries.GetHistoricalCallsOfCallId",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.ScheduledCallController",
+    "Method": "GetPathOfCallId",
+    "RelativePath": "User/v{version}/ScheduledCall/GetPathOfCallId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Lookup.CategoryPath.Queries.GetFullPath",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.ScheduledCallController",
+    "Method": "GetScheduledCallById",
+    "RelativePath": "User/v{version}/ScheduledCall/GetScheduledCallById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.ScheduledCall.Queries.GetScheduledCallById",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.ScheduledCallController",
+    "Method": "GetScheduledCallCountByCallStatus",
+    "RelativePath": "User/v{version}/ScheduledCall/GetScheduledCallCountByCallStatus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.ScheduledCall.Queries.GetScheduledCallCountByCallStatus",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.User.ScheduledCallController",
+    "Method": "SubmitCallResult",
+    "RelativePath": "User/v{version}/ScheduledCall/SubmitCallResult",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.Features.Application.HistoricalCall.Commands.Create.SubmitCallResultCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHelper.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ApiHelper.WeatherForecast, ApiHelper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

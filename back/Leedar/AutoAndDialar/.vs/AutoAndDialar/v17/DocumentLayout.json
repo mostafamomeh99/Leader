@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D09FD160-89B8-43E6-A3F9-CB269E080D9B}|ApiHelper\\ApiHelper.csproj|d:\\study\\self study\\ledar\\version 2\\leedar\\autoanddialar\\apihelper\\controllers\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09FD160-89B8-43E6-A3F9-CB269E080D9B}|ApiHelper\\ApiHelper.csproj|solutionrelative:apihelper\\controllers\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09FD160-89B8-43E6-A3F9-CB269E080D9B}|ApiHelper\\ApiHelper.csproj|d:\\study\\self study\\ledar\\version 2\\leedar\\autoanddialar\\apihelper\\controllers\\cp\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09FD160-89B8-43E6-A3F9-CB269E080D9B}|ApiHelper\\ApiHelper.csproj|solutionrelative:apihelper\\controllers\\cp\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09FD160-89B8-43E6-A3F9-CB269E080D9B}|ApiHelper\\ApiHelper.csproj|d:\\study\\self study\\ledar\\version 2\\leedar\\autoanddialar\\apihelper\\controllers\\cp\\pathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09FD160-89B8-43E6-A3F9-CB269E080D9B}|ApiHelper\\ApiHelper.csproj|solutionrelative:apihelper\\controllers\\cp\\pathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09FD160-89B8-43E6-A3F9-CB269E080D9B}|ApiHelper\\ApiHelper.csproj|d:\\study\\self study\\ledar\\version 2\\leedar\\autoanddialar\\apihelper\\controllers\\cp\\lookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09FD160-89B8-43E6-A3F9-CB269E080D9B}|ApiHelper\\ApiHelper.csproj|solutionrelative:apihelper\\controllers\\cp\\lookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20AF7724-D56F-49F8-97B2-F90032B64196}|Application\\Application.csproj|d:\\study\\self study\\ledar\\version 2\\leedar\\autoanddialar\\application\\features\\identity\\user\\commands\\create\\createnewusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20AF7724-D56F-49F8-97B2-F90032B64196}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\user\\commands\\create\\createnewusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09FD160-89B8-43E6-A3F9-CB269E080D9B}|ApiHelper\\ApiHelper.csproj|d:\\study\\self study\\ledar\\version 2\\leedar\\autoanddialar\\apihelper\\controllers\\cp\\scheduledcallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09FD160-89B8-43E6-A3F9-CB269E080D9B}|ApiHelper\\ApiHelper.csproj|solutionrelative:apihelper\\controllers\\cp\\scheduledcallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20AF7724-D56F-49F8-97B2-F90032B64196}|Application\\Application.csproj|d:\\study\\self study\\ledar\\version 2\\leedar\\autoanddialar\\application\\features\\application\\scheduledcall\\queries\\getbyfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20AF7724-D56F-49F8-97B2-F90032B64196}|Application\\Application.csproj|solutionrelative:application\\features\\application\\scheduledcall\\queries\\getbyfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698961B1-47A6-481D-87ED-7D3AA446FBA3}|Infrastructure\\Infrastructure.csproj|d:\\study\\self study\\ledar\\version 2\\leedar\\autoanddialar\\infrastructure\\persistence\\contexts\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698961B1-47A6-481D-87ED-7D3AA446FBA3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\contexts\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09FD160-89B8-43E6-A3F9-CB269E080D9B}|ApiHelper\\ApiHelper.csproj|d:\\study\\self study\\ledar\\version 2\\leedar\\autoanddialar\\apihelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09FD160-89B8-43E6-A3F9-CB269E080D9B}|ApiHelper\\ApiHelper.csproj|solutionrelative:apihelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09FD160-89B8-43E6-A3F9-CB269E080D9B}|ApiHelper\\ApiHelper.csproj|d:\\study\\self study\\ledar\\version 2\\leedar\\autoanddialar\\apihelper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D09FD160-89B8-43E6-A3F9-CB269E080D9B}|ApiHelper\\ApiHelper.csproj|solutionrelative:apihelper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698961B1-47A6-481D-87ED-7D3AA446FBA3}|Infrastructure\\Infrastructure.csproj|d:\\study\\self study\\ledar\\version 2\\leedar\\autoanddialar\\infrastructure\\services\\contextcurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698961B1-47A6-481D-87ED-7D3AA446FBA3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\contextcurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 55,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:174:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:173:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\ApiHelper\\Controllers\\User\\UserController.cs",
+              "RelativeDocumentMoniker": "ApiHelper\\Controllers\\User\\UserController.cs",
+              "ToolTip": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\ApiHelper\\Controllers\\User\\UserController.cs",
+              "RelativeToolTip": "ApiHelper\\Controllers\\User\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T08:37:13.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PathController.cs",
+              "DocumentMoniker": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\ApiHelper\\Controllers\\CP\\PathController.cs",
+              "RelativeDocumentMoniker": "ApiHelper\\Controllers\\CP\\PathController.cs",
+              "ToolTip": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\ApiHelper\\Controllers\\CP\\PathController.cs",
+              "RelativeToolTip": "ApiHelper\\Controllers\\CP\\PathController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAzwEcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T21:19:56.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateNewUserCommand.cs",
+              "DocumentMoniker": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\Application\\Features\\Identity\\User\\Commands\\Create\\CreateNewUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\User\\Commands\\Create\\CreateNewUserCommand.cs",
+              "ToolTip": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\Application\\Features\\Identity\\User\\Commands\\Create\\CreateNewUserCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\User\\Commands\\Create\\CreateNewUserCommand.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:16:28.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LookupController.cs",
+              "DocumentMoniker": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\ApiHelper\\Controllers\\CP\\LookupController.cs",
+              "RelativeDocumentMoniker": "ApiHelper\\Controllers\\CP\\LookupController.cs",
+              "ToolTip": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\ApiHelper\\Controllers\\CP\\LookupController.cs",
+              "RelativeToolTip": "ApiHelper\\Controllers\\CP\\LookupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:59:30.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetByFilter.cs",
+              "DocumentMoniker": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\Application\\Features\\Application\\ScheduledCall\\Queries\\GetByFilter.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Application\\ScheduledCall\\Queries\\GetByFilter.cs",
+              "ToolTip": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\Application\\Features\\Application\\ScheduledCall\\Queries\\GetByFilter.cs",
+              "RelativeToolTip": "Application\\Features\\Application\\ScheduledCall\\Queries\\GetByFilter.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:49:38.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScheduledCallController.cs",
+              "DocumentMoniker": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\ApiHelper\\Controllers\\CP\\ScheduledCallController.cs",
+              "RelativeDocumentMoniker": "ApiHelper\\Controllers\\CP\\ScheduledCallController.cs",
+              "ToolTip": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\ApiHelper\\Controllers\\CP\\ScheduledCallController.cs",
+              "RelativeToolTip": "ApiHelper\\Controllers\\CP\\ScheduledCallController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDMAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:49:33.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\ApiHelper\\Controllers\\CP\\UserController.cs",
+              "RelativeDocumentMoniker": "ApiHelper\\Controllers\\CP\\UserController.cs",
+              "ToolTip": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\ApiHelper\\Controllers\\CP\\UserController.cs",
+              "RelativeToolTip": "ApiHelper\\Controllers\\CP\\UserController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAEUAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:16:23.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\ApiHelper\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiHelper\\appsettings.json",
+              "ToolTip": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\ApiHelper\\appsettings.json",
+              "RelativeToolTip": "ApiHelper\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-01T19:31:40.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\Infrastructure\\Persistence\\Contexts\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Contexts\\ApplicationDbContextFactory.cs",
+              "ToolTip": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\Infrastructure\\Persistence\\Contexts\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Contexts\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:31:24.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContextCurrentUserService.cs",
+              "DocumentMoniker": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\Infrastructure\\Services\\ContextCurrentUserService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ContextCurrentUserService.cs",
+              "ToolTip": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\Infrastructure\\Services\\ContextCurrentUserService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ContextCurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:30:53.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\ApiHelper\\Program.cs",
+              "RelativeDocumentMoniker": "ApiHelper\\Program.cs",
+              "ToolTip": "D:\\study\\self study\\ledar\\version 2\\Leedar\\AutoAndDialar\\ApiHelper\\Program.cs",
+              "RelativeToolTip": "ApiHelper\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:27:40.794Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
