@@ -1,0 +1,44 @@
+
+.tableHead {
+  background-color: #2E86C1 !important;
+}
+
+.tableHead th {
+  color: #fff !important;
+    background-color: #2E86C1 !important;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.customTable th,
+.customTable td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.customTable tbody tr:hover {
+    background-color: #2E86C1 !important;
+
+}
+
+.buttonCall {
+  background-color: transparent !important; 
+  border: none !important; 
+  outline: none !important; 
+  padding: 0 !important; 
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.iconCall {
+  color: #2E86C1 !important;
+  font-size: 2.5rem !important; 
+  transition: transform 0.3s ease;
+}
+
+.iconCall:hover {
+  transform: scale(1.2); 
+}

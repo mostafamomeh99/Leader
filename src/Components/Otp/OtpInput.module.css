@@ -1,0 +1,30 @@
+
+.otpWrapper {
+  direction: ltr; 
+}
+
+.otpInput {
+  width: 50px;
+  height: 60px;
+  font-size: 24px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+}
+
+.otpInput:focus {
+  box-shadow: 0 0 0 2px #31c3e3;
+}
+
+.submitBtn {
+  background-color: #3fd3c4;
+  color: #fff;
+  font-size: 18px;
+  padding: 10px 40px;
+  border-radius: 10px;
+  border: none;
+}
+
+.submitBtn:hover {
+  background-color: #35b6aa;
+}

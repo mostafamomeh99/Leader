@@ -1,0 +1,48 @@
+.container {
+    background-color: transparent;
+  padding: 40px;
+  border-radius: 15px;
+  max-width: 900px;
+  margin: 40px auto;
+  margin-top: 0;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+  animation: fadeInUp 0.7s ease-in-out;
+}
+
+.label {
+  color: white !important;
+  font-weight: 600;
+}
+
+.error {
+  color: #c71e1e !important;
+  font-size: 14px;
+  margin-top: 5px;
+  font-weight: 500;
+}
+
+.submitBtn {
+  background-color: #16388F !important;
+  color: #fff !important;
+  font-size: 18px;
+  padding: 10px 40px;
+  border-radius: 10px;
+  border: none;
+  transition: transform 0.2s ease, background 0.3s ease;
+}
+
+.submitBtn:hover {
+  background-color: #293a9b !important;
+  transform: scale(1.05);
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

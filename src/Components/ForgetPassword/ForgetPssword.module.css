@@ -1,0 +1,85 @@
+
+.loginContainer {
+  min-height: 100vh; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;     
+  padding: 20px;
+}
+
+
+.inputWrapper {
+  max-width: 600px;
+  width: 100%;
+}
+
+.input {
+  width: 100%;
+  height: 60px;
+  font-size: 22px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  padding: 0 15px;
+}
+
+.error{
+  color: rgb(179, 19, 19);
+  font-weight: 500;
+}
+
+.input:focus {
+  box-shadow: 0 0 0 2px #31c3e3;
+}
+
+.input::placeholder {
+  color: #8e8f93 !important;
+  opacity: 1 !important;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+
+.submitBtn {
+  background-color: #1f4cbd;
+  color: #fff;
+  font-size: 20px;
+  padding: 12px 50px;
+  border-radius: 10px;
+  border: none;
+  transition: background 0.3s ease;
+}
+
+.submitBtn:hover {
+background-color: #1625a4 !important;
+opacity: 0.9;
+color: white !important;
+}
+
+
+.forgotPassword {
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+
+.forgotPassword:hover {
+  text-decoration: underline;
+}
+
+
+@media (max-width: 576px) {
+  .input {
+    height: 50px;
+    font-size: 18px;
+  }
+  .submitBtn {
+    width: 100%;
+    padding: 12px;
+    font-size: 18px;
+  }
+}
+

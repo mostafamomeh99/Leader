@@ -1,0 +1,155 @@
+
+
+.sidebar {
+  background: #16388F;
+  color: #fff;
+  width: 240px;
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0 20px 0 0;
+  position: fixed;
+  top: 0;
+  transition: transform 0.3s ease-in-out;
+  z-index: 1050;
+}
+a {
+  color: inherit;     
+  text-decoration: none;
+}
+.sidebar.ltr {
+  left: 0;
+  right: auto;
+}
+
+.sidebar.rtl {
+  right: 0;
+  left: auto;
+}
+
+.subMenuRtl {
+  text-align: right;
+  direction: rtl;
+}
+
+.subMenuLtr {
+  text-align: left;
+  direction: ltr;
+}
+
+
+.itemLtr {
+  display: flex;
+  flex-direction: row;     
+  align-items: center;
+  gap: 10px;     
+}
+
+.itemRtl {
+  display: flex;
+  flex-direction: row-reverse; 
+  align-items: center;
+  gap: 10px;
+}
+
+.menu {
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.menu .itemLtr:hover,
+.menu .itemRtl:hover {
+  color: #31c3e3;
+}
+
+
+.subMenu div:hover {
+  color: #31c3e3;
+}
+.logo {
+  margin-top: 50px;
+  margin-left: 10px;
+}
+
+@media (min-width: 992px) {
+  .sidebar {
+    transform: translateX(0);
+    position: sticky;
+  }
+}
+
+@media (max-width: 991px) {
+    /* LTR */
+  .sidebar.ltr {
+    transform: translateX(-100%);
+    border-radius: 0;
+  }
+  .sidebar.ltr.open {
+    transform: translateX(0);
+  }
+
+  /* RTL */
+  .sidebar.rtl {
+    transform: translateX(100%);
+    border-radius: 0;
+  }
+  .sidebar.rtl.open {
+    transform: translateX(0);
+  }
+}
+
+.toggleBtn {
+  display: none;
+  position: fixed;
+  top: 15px;
+  z-index: 1100;
+  background: #16388F;
+  color: #fff;
+  border: none;
+  font-size: 26px;
+  padding: 6px 10px;
+  border-radius: 6px;
+}
+
+.toggleBtn.ltr {
+  left: 15px;
+  right: auto;
+}
+
+.toggleBtn.rtl {
+  right: 15px;
+  left: auto;
+}
+
+@media (max-width: 991px) {
+  .toggleBtn {
+    display: block;
+  }
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 1040;
+}
+
+.subMenu {
+  padding: 5px 15px;
+  font-size: 16px;
+  color: #ddd;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  cursor: pointer;
+}
+
+.subMenu div:hover {
+  color: #31c3e3;
+}

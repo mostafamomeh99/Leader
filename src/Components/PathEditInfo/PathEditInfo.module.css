@@ -1,0 +1,305 @@
+
+.container {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+
+.left {
+  flex: 1.5;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.input {
+  display: block;
+  margin-top: 5px;
+  padding: 0.375rem 0.75rem; /* مساحة داخلية */
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4dacd; /* نفس بوردر Bootstrap */
+  border-radius: 0.375rem;    /* زوايا */
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    width: 90%;
+}
+
+.input:focus {
+  color: #212529;
+  background-color: #fff;
+  border-color: #86b7fe;  /* أزرق فاتح */
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25); /* ظل أزرق عند الفوكس */
+}
+
+.input::placeholder {
+  color: #6c757d; /* Placeholder رمادى */
+  opacity: 1;
+}
+
+
+.dynamicField {
+  margin-top: 0.5rem;
+}
+
+
+.right {
+  flex: 1;
+  background-color: #007bff; 
+  border-radius: 8px;
+  padding: 1rem;
+  color: #fff;
+  min-height: 800px;
+}
+
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 1rem;
+}
+
+
+
+.navbar button {
+  background: transparent;
+  border: none;
+  color: #fff;
+  font-weight: bold;
+  padding: 0.5rem;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+}
+
+.navbar button:hover {
+  border-bottom: 2px solid #fff;
+}
+
+.activeBtn {
+  border-bottom: 2px solid #fff;
+}
+
+.tabContent {
+  background-color: #f9f9f9;
+  color: #000;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.checkboxRow {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.checkbox {
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+}
+
+
+
+.radioGroup {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.radioLabel {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.radioLabel input[type="radio"] {
+  accent-color: #007bff; 
+}
+
+
+.addButton {
+  background-color: #007bff;    
+  color: white;              
+  border: none;
+  padding: 8px 16px;
+  margin-top: 8px;
+  border-radius: 6px;         
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.addButton:hover {
+  background-color: rgb(28, 83, 134); 
+}
+
+
+.optionItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 14px; 
+  border: 1px solid #ddd;
+  margin-bottom: 6px;
+  border-radius: 4px;
+  background: #f9f9f9;
+  min-width: 300px;
+}
+
+.optionItem:hover{
+    background: #636060c1;
+}
+
+.deleteBtn {
+  color: red;
+  cursor: pointer;
+  font-weight: bold;
+  margin-left: 8px;
+  transition: color 0.2s ease;
+}
+
+.deleteBtn:hover {
+  color: darkred;
+}
+
+
+.groupsPanel {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem; /* مسافة بين الجروبات */
+}
+
+/* صندوق الجروب */
+.groupBox {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background: #beb6b691;
+  padding: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+/* عنوان الجروب */
+.groupHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.groupNameInput {
+  border: none;
+  font-weight: bold;
+  font-size: 14px;
+  background: transparent;
+  padding: 5px;
+  outline: none;
+}
+
+/* ليستة الفيلدز */
+.fieldsUl {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem; /* مسافة بين كل فيلد والتاني */
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+/* عنصر الفيلد */
+.fieldItem {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 6px;
+  gap: 0.5rem; /* مسافة بين الأيقونة والانبت */
+}
+
+.fieldInput {
+  flex: 1;
+  border: none;
+  outline: none;
+  padding: 4px 6px;
+  font-size: 14px;
+  width: 90%;
+    min-width: 0; 
+}
+
+/* أيقونة السحب */
+.dragHandle {
+  cursor: grab;
+  color: #666;
+}
+
+/* زرار الحذف */
+.deleteBtn {
+  background: none;
+  border: none;
+  color: red;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.deleteBtn:hover {
+  color: darkred;
+}
+
+/* أزرار الإضافة */
+.actions {
+  display: flex;
+  gap: 0.5rem; /* مسافة بين زرار New Group و New Field */
+}
+
+
+.fieldWithDropdown {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+.suggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: white;
+  border: 1px solid #ccc;
+  max-height: 150px;
+  overflow-y: auto;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  z-index: 10;
+}
+
+.suggestionItem {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.suggestionItem:hover {
+  background: #eee;
+}
+
+
+.listScroll {
+  max-height: 200px;   
+  overflow-y: auto;    
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: #fff;
+  padding: 0.5rem;
+}

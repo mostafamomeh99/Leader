@@ -1,0 +1,45 @@
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  background: linear-gradient(to bottom, #295cdc, #30CFD0);
+
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.topbar input {
+  width: 300px;
+  border-radius: 8px;
+    border: 2px solid #95979a; 
+     padding: 6px 10px;
+}
+
+.topbarpathitem{
+    font-size: 20px;
+  color: white;
+    cursor: pointer;
+    font-weight: 500;
+     align-items: center;
+  gap: 15px;
+}
+.activeLink{
+  padding-bottom: 10px;
+  border-bottom:4px solid #295cdc;
+}
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 20px;
+  color: white;
+    cursor: pointer;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  color: white;
+}

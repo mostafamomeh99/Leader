@@ -1,0 +1,47 @@
+.card {
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  text-align: left;
+  height: 200px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  cursor: pointer;
+}
+
+.card h6 {
+  font-size: 14px;
+  color: #6E6B7B;
+  margin-bottom: 8px;
+}
+
+.card h3 {
+  font-size: 22px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.positive {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #28C76F; 
+}
+
+.negative {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #EA5455; 
+}
